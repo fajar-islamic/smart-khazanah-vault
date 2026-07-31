@@ -1,19 +1,10 @@
-# Dependency Node.js (Folder berat, gak perlu di-push)
 node_modules/
-
-# File rahasia (API Key / Password Database)
 .env
 .env.local
-
-# Log error
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Folder build Frontend
 /frontend/dist
 /frontend/build
-
-# File bawaan sistem operasi
 .DS_Store
 Thumbs.db
